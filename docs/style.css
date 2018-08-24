@@ -1,0 +1,15 @@
+#marker-found-label {
+    display:none; 
+    position: fixed; 
+    top: 20px; 
+    left: calc(50% - 100px); 
+    width: 200px; 
+    height: 40px;
+    background-color: rgba(0,0,0,0.7); 
+    color: #ffffff;
+    border-radius: 8px; 
+    text-align: center; 
+    line-height: 40px; 
+    font-family: 'Meiryo UI' sans-serif; 
+    font-size: 20px;
+}
